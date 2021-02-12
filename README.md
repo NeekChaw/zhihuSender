@@ -105,3 +105,6 @@ db.getCollection("cookies").insert({
 });
 
 ```
+
+- 项目持续更新中，如与任何问题，欢迎随时沟通：richachen00@gmail.com
+- Mongodb数据示例下一个迭代会更新到本仓库，方便开箱即用调试
